@@ -2,3 +2,4 @@
 QIODevice::write (QTcpSocket): device not open
 QIODevice::write (QTcpSocket): device not open
 QIODevice::write (QTcpSocket): device not open
+[INFO]  2020/12/30 17:52:12 Running client, config file: /home/crinstaniev/.config/trojan-qt5/config.json
