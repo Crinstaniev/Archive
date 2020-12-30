@@ -1,0 +1,4 @@
+[INFO]  2020/12/30 11:38:39 Running client, config file: /home/crinstaniev/.config/trojan-qt5/config.json
+QIODevice::write (QTcpSocket): device not open
+QIODevice::write (QTcpSocket): device not open
+QIODevice::write (QTcpSocket): device not open
